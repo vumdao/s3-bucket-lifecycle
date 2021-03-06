@@ -33,3 +33,19 @@
 
 - See cloudwatch metric graph to see AWS add more storage classes
 ![Alt-Text](https://github.com/vumdao/s3-bucket-lifecycle/blob/master/cloudwatch_metric_graph.png?raw=true)
+
+<h3 align="center">
+  <a href="https://dev.to/vumdao">:stars: Blog</a>
+  <span> · </span>
+  <a href="https://github.com/vumdao/">Github</a>
+  <span> · </span>
+  <a href="https://vumdao.hashnode.dev/">Web</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/vu-dao-9280ab43/">Linkedin</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/groups/12488649/">Group</a>
+  <span> · </span>
+  <a href="https://www.facebook.com/CloudOpz-104917804863956">Page</a>
+  <span> · </span>
+  <a href="https://twitter.com/VuDao81124667">Twitter :stars:</a>
+</h3>
